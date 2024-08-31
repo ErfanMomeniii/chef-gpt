@@ -15,6 +15,7 @@ Chef-GPT is designed to support multiple agent personalities, each representing 
 | Agent Personality        | Contributor                                          |
 |--------------------------|------------------------------------------------------|
 | Traditional Persian Chef | [Erfan Momeni](https://github.com/erfanmomeniii)     |
+| Soul Food Chef | [Amba Dumbuya](https://github.com/ambadumbuya)     |
 
 ## How to Use Chef-GPT
 
@@ -31,6 +32,7 @@ We welcome contributions from anyone interested in expanding the capabilities an
 ### Current Contributors
 
 - **[Erfan Momeni](https://github.com/erfanmomeniii)** - Developer of the Traditional Persian Chef personality.
+- **[Amba Dumbuya](https://github.com/ambadumbuya)** - Developer of the Soul Food Chef Personality.
 
 ## License
 
